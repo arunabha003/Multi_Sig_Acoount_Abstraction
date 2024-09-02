@@ -1,0 +1,13 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts-upgradeable/=lib/foundry-era-contracts/lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+account-abstraction/=lib/account-abstraction/contracts/
+ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+foundry-devops/=lib/foundry-devops/
+foundry-era-contracts/=lib/foundry-era-contracts/
+murky/=lib/foundry-era-contracts/lib/murky/
+openzeppelin-contracts-upgradeable/=lib/foundry-era-contracts/lib/openzeppelin-contracts-upgradeable/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+solpp/=lib/foundry-era-contracts/src/solpp/solpp-generated-contracts/
